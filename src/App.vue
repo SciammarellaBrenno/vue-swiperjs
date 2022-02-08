@@ -24,8 +24,8 @@
 }
 
 .input{
-  width: 250px;
-  height: 20px;
+  width: 350px;
+  height: 30px;
   border-radius: 5px;
 }
 </style>
